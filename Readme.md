@@ -14,3 +14,5 @@ A tidy dataset contains the means of all the columns per test subject and per ac
 
 ## About the code book
 The code book describes the variables, the data, and any transformations or work that was performed to clean up the data.
+
+This sentense is used for a test.
