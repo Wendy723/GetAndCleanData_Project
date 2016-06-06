@@ -17,7 +17,6 @@ To be complete, I included all variables having to do with mean or standard devi
 In short, for this derived dataset, these signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-Please explain what kind of features do cookbook have
 
 The set of variables that were estimated from these signals are:
 
